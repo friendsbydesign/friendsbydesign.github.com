@@ -2,3 +2,14 @@ body{
     font-family: "Eras ITC", "Eras Light ITC",  sans-serif;
 }
  
+.navbar a{  
+    font-size: 2em;
+}
+
+#brand{
+    font-size: 2.5em;
+}
+
+.navbar-expand-lg .navbar-nav .nav-link{
+    padding-left: 1em;
+}
